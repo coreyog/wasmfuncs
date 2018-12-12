@@ -4,5 +4,11 @@
     "GOARCH": "wasm",
     "GOROOT": "/usr/local/go",
     "GOPATH": "/home/corey/src/goprojects"
+  },
+  "go.testEnvVars": {
+    "GOOS": "js",
+    "GOARCH": "wasm",
+    "GOROOT": "/usr/local/go",
+    "GOPATH": "/home/corey/src/goprojects"
   }
 }
